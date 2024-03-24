@@ -19,3 +19,8 @@ home creditのkaggle日記です
 - Home Credit 2024 Starter Notebookをメインで参考にした
   - https://www.kaggle.com/code/jetakow/home-credit-2024-starter-notebook 
 - submitが無事にできたらclassではなくて普通のlgbmと比較したい。
+
+## 2024/3/25
+- 「Home Credit: 特徴量の日本語訳」をpublicで投稿
+  - コンペの紐付けせずに投稿してしまっていたのを、紐づけた
+  - コンペのデータセットを使用していなくても、inputに追加しておくと、そのコンペのcodeに表示されるようになるよう。
