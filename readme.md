@@ -11,4 +11,7 @@ home creditのkaggle日記です
 - k-foldが1回でbreakできるように書き換えた
 - Home Credit: Baseline using Depth0 Data___ver06をsubmit
   - lgbmClassで予測（0,1を予測）したため、lgbmで0~1を予測した方が良さそう
-  -  
+  - Depth0のデータまでを使った予測
+- Home Credit 2024 Starter Notebookをメインで参考にした
+  - https://www.kaggle.com/code/jetakow/home-credit-2024-starter-notebook 
+- submitが無事にできたらclassではなくて普通のlgbmと比較したい。
