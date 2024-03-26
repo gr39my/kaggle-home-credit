@@ -21,6 +21,13 @@ home creditのkaggle日記です
 - submitが無事にできたらclassではなくて普通のlgbmと比較したい。
 
 ## 2024/3/25
-- 「Home Credit: 特徴量の日本語訳」をpublicで投稿
+- 「Home Credit: 特徴量の日本語訳」をpublicで投稿しなおした
   - コンペの紐付けせずに投稿してしまっていたのを、紐づけた
   - コンペのデータセットを使用していなくても、inputに追加しておくと、そのコンペのcodeに表示されるようになるよう。
+
+## 2024/3/26(2時間)
+- 今日からkaggleに取り組んだ時間も記録することにしました。
+- codeコンペの採点方法について調べた。
+- 昨日、投稿しなおしたnotebookが銅メダル!!嬉しい
+- 「Simplest baseline using only depth=0 data」をpublicで投稿
+- これまで簡単のために depth=0 のデータのみに絞っていたので、明日からdepth=0,1,2と1つずつ増やしていく!!
