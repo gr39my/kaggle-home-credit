@@ -31,3 +31,8 @@ home creditのkaggle日記です
 - 昨日、投稿しなおしたnotebookが銅メダル!!嬉しい
 - 「Simplest baseline using only depth=0 data」をpublicで投稿
 - これまで簡単のために depth=0 のデータのみに絞っていたので、明日からdepth=0,1,2と1つずつ増やしていく!!
+
+## 2024/3/28(1.5時間)
+- depth=1のデータを追加
+- depth=1のデータは１つのcase_idごとに複数のnum_group1が存在する。
+- そのため、maxを取ったりしながら追加することになりそう
