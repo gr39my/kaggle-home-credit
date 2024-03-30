@@ -36,3 +36,15 @@ home creditのkaggle日記です
 - depth=1のデータを追加
 - depth=1のデータは１つのcase_idごとに複数のnum_group1が存在する。
 - そのため、maxを取ったりしながら追加することになりそう
+
+## 2024/3/29(1時間)
+- ディスカッションを眺めていたら時間が溶けた
+- 明日は、気になったものを動かしてみる
+  - https://www.kaggle.com/code/dksdms4/lb-0-565-improved-baseline-notebook
+ 
+## 2024/3/30(5時間)
+- [[LB:0.565]Improved baseline Notebook](https://www.kaggle.com/code/dksdms4/lb-0-565-improved-baseline-notebook)を動かしてみる
+- コードの解読しかできていないのでは...???
+- [colabで動かす](https://colab.research.google.com/drive/1mH_RF1LvgE8gwVe4fzOrD8M6Kt_T6YHF#scrollTo=j1Bby4s7vV2N)ときにGPUがないよ！的なエラーが発生する...
+  - あしたはここを解決する。
+  - 訓練の部分は、いまいち上手に動かないので、自分で作成したスクリプトで埋める
