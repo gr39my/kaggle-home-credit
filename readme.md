@@ -48,3 +48,9 @@ home creditのkaggle日記です
 - [colabで動かす](https://colab.research.google.com/drive/1mH_RF1LvgE8gwVe4fzOrD8M6Kt_T6YHF#scrollTo=j1Bby4s7vV2N)ときにGPUがないよ！的なエラーが発生する...
   - あしたはここを解決する。
   - 訓練の部分は、いまいち上手に動かないので、自分で作成したスクリプトで埋める
+ 
+## 2024/3/31(1時間)
+- 引き続き、訓練の部分は、いまいち上手に動かないので、自分で作成したスクリプトで埋める
+- 課題の言語化
+  - ![image](https://github.com/gr39my/kaggle-home-credit/assets/68382023/9e17f320-556b-4758-b094-e33d24eca62c)
+
