@@ -56,4 +56,8 @@ home creditのkaggle日記です
 - 引き続き、訓練の部分は、いまいち上手に動かないので、自分で作成したスクリプトで埋める
 - 課題の言語化
   - ![image](https://github.com/gr39my/kaggle-home-credit/assets/68382023/9e17f320-556b-4758-b094-e33d24eca62c)
+ 
+## 2024/4/2
+- 訓練部分を差し替え
+- kfoldを10000にして、訓練を早くおわるようにした
 
