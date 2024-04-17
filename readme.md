@@ -71,5 +71,19 @@ home creditのkaggle日記です
 - いろんなものをコメントアウトして最低限の状態になってしまったけれど、submitが通った。
 - スコアは0.526
 
-## 2024/4/14
-- 5:30-
+## 2024/4/14(6時間)
+- エラーと戦う
+- abalone（playgroundコンペ）に浮気
+
+## 2024/4/15(2時間)
+- submit３回
+- スコア0.625
+- abalone（playgroundコンペ）に浮気
+
+## 2024/4/16(2時間)
+- notebooks expertになれた！
+  - abaloneをやってみて、簡単なコンペだと手がさくさく動くのを実感
+- home creditはsubmit３回
+
+
+
